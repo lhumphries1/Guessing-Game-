@@ -15,6 +15,7 @@ public class GuessingGameApp {
         } if (guess == 0){
             System.out.println("Select your WINNING number between 1-10");
           guess = input.nextInt();
+
         }
 
     }
